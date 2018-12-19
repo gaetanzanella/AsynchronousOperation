@@ -1,0 +1,16 @@
+PODS:
+  - AsynchronousOperation (0.1.0)
+
+DEPENDENCIES:
+  - AsynchronousOperation (from `../`)
+
+EXTERNAL SOURCES:
+  AsynchronousOperation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AsynchronousOperation: 1b82a662d5fa0e2e087cd1a53cd0d72714163ad7
+
+PODFILE CHECKSUM: 11d5bb19b1cba5f65c4350582814dd397f47b86a
+
+COCOAPODS: 1.5.3
